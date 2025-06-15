@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-![Model Performance Banner](./image/confusion_matrix.png)
+![Model Performance Banner](image/confusion_matrix.png)
 
 This project is a machine learning classification model to predict the survival of passengers on the Titanic, based on the well-known Kaggle dataset.
 
